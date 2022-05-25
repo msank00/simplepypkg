@@ -5,6 +5,7 @@ This is a bare minimum structure of designing a python module
 ## File Structure
 
 ```
+$ cd simplepypkg
 $ tree
 .
 ├── Makefile
