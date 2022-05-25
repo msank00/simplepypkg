@@ -24,6 +24,7 @@ $ tree
 From the directory `simplepyplg/`, run:
 
 ```py
+ cd simplepypkg
  python -m src.mymodule --func fib2 --n 1000
  
  # output
